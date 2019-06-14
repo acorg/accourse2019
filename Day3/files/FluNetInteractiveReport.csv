@@ -1,0 +1,266 @@
+﻿textbox22
+generated on 18/10/2017 10:46:27 UTC
+
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+Germany,European Region of WHO,South West Europe,2012,1,2012-01-02,2012-01-08,,44,0,0,2,,0,2,0,0,0,0,2,,Sporadic
+Germany,European Region of WHO,South West Europe,2012,2,2012-01-09,2012-01-15,,42,0,0,8,,0,8,0,0,0,0,8,,Sporadic
+Germany,European Region of WHO,South West Europe,2012,3,2012-01-16,2012-01-22,,55,0,0,15,,0,15,0,0,0,0,15,,Sporadic
+Germany,European Region of WHO,South West Europe,2012,4,2012-01-23,2012-01-29,,65,0,0,25,,0,25,0,0,0,0,25,,Sporadic
+Germany,European Region of WHO,South West Europe,2012,5,2012-01-30,2012-02-05,,64,0,0,26,,0,26,0,1,0,1,27,,Local Outbreak
+Germany,European Region of WHO,South West Europe,2012,6,2012-02-06,2012-02-12,,71,0,0,34,,0,34,0,3,0,3,37,,Regional Outbreak
+Germany,European Region of WHO,South West Europe,2012,7,2012-02-13,2012-02-19,,98,0,0,33,,0,33,0,6,0,6,39,,Regional Outbreak
+Germany,European Region of WHO,South West Europe,2012,8,2012-02-20,2012-02-26,,114,0,2,58,,0,60,1,6,0,7,67,,Regional Outbreak
+Germany,European Region of WHO,South West Europe,2012,9,2012-02-27,2012-03-04,,147,0,1,67,,0,68,3,2,0,5,73,,Regional Outbreak
+Germany,European Region of WHO,South West Europe,2012,10,2012-03-05,2012-03-11,,132,0,0,73,,0,73,1,7,0,8,81,,Regional Outbreak
+Germany,European Region of WHO,South West Europe,2012,11,2012-03-12,2012-03-18,,118,0,1,36,,0,37,2,9,0,11,48,,Regional Outbreak
+Germany,European Region of WHO,South West Europe,2012,12,2012-03-19,2012-03-25,,91,0,0,45,,0,45,3,16,0,19,64,,Local Outbreak
+Germany,European Region of WHO,South West Europe,2012,13,2012-03-26,2012-04-01,,81,0,0,23,,0,23,2,25,0,27,50,,Local Outbreak
+Germany,European Region of WHO,South West Europe,2012,14,2012-04-02,2012-04-08,,34,0,0,21,,0,21,1,6,0,7,28,,Local Outbreak
+Germany,European Region of WHO,South West Europe,2012,15,2012-04-09,2012-04-15,,46,0,0,17,,0,17,4,8,0,12,29,,Local Outbreak
+Germany,European Region of WHO,South West Europe,2012,16,2012-04-16,2012-04-22,,37,0,0,4,,0,4,3,5,0,8,12,,Local Outbreak
+Germany,European Region of WHO,South West Europe,2012,17,2012-04-23,2012-04-29,,24,0,0,5,,0,5,0,2,0,2,7,,Sporadic
+Germany,European Region of WHO,South West Europe,2012,18,2012-04-30,2012-05-06,,17,0,0,3,,0,3,1,0,0,1,4,,Sporadic
+Germany,European Region of WHO,South West Europe,2012,19,2012-05-07,2012-05-13,,10,0,0,3,,0,3,0,0,0,0,3,,Sporadic
+Germany,European Region of WHO,South West Europe,2012,20,2012-05-14,2012-05-20,,12,0,0,0,,0,0,0,0,0,0,0,,Sporadic
+Germany,European Region of WHO,South West Europe,2012,21,2012-05-21,2012-05-27,,6,0,0,0,,0,0,0,1,0,1,1,,No Report
+Germany,European Region of WHO,South West Europe,2012,22,2012-05-28,2012-06-03,,4,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2012,23,2012-06-04,2012-06-10,,2,0,0,1,,0,1,0,0,0,0,1,,No Activity
+Germany,European Region of WHO,South West Europe,2012,24,2012-06-11,2012-06-17,,7,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2012,25,2012-06-18,2012-06-24,,5,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2012,26,2012-06-25,2012-07-01,,4,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2012,27,2012-07-02,2012-07-08,,4,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2012,28,2012-07-09,2012-07-15,,5,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2012,29,2012-07-16,2012-07-22,,4,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2012,30,2012-07-23,2012-07-29,,3,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2012,31,2012-07-30,2012-08-05,,1,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2012,32,2012-08-06,2012-08-12,,1,0,0,0,,0,0,1,0,0,1,1,,No Activity
+Germany,European Region of WHO,South West Europe,2012,33,2012-08-13,2012-08-19,,2,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2012,34,2012-08-20,2012-08-26,,2,0,0,1,,0,1,0,0,0,0,1,,No Activity
+Germany,European Region of WHO,South West Europe,2012,35,2012-08-27,2012-09-02,,4,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2012,36,2012-09-03,2012-09-09,,3,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2012,37,2012-09-10,2012-09-16,,2,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2012,38,2012-09-17,2012-09-23,,5,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2012,39,2012-09-24,2012-09-30,,8,0,0,2,,0,2,0,0,0,0,2,,No Report
+Germany,European Region of WHO,South West Europe,2012,40,2012-10-01,2012-10-07,,10,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2012,41,2012-10-08,2012-10-14,,15,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2012,42,2012-10-15,2012-10-21,,28,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2012,43,2012-10-22,2012-10-28,,33,0,1,1,,0,2,0,0,0,0,2,,No Activity
+Germany,European Region of WHO,South West Europe,2012,44,2012-10-29,2012-11-04,,36,0,0,1,,0,1,0,0,0,0,1,,Sporadic
+Germany,European Region of WHO,South West Europe,2012,45,2012-11-05,2012-11-11,,45,0,0,2,,0,2,0,0,0,0,2,,Sporadic
+Germany,European Region of WHO,South West Europe,2012,46,2012-11-12,2012-11-18,,58,0,0,2,,0,2,0,0,0,0,2,,Sporadic
+Germany,European Region of WHO,South West Europe,2012,47,2012-11-19,2012-11-25,,78,0,0,3,,0,3,0,0,0,0,3,,No Report
+Germany,European Region of WHO,South West Europe,2012,48,2012-11-26,2012-12-02,,88,0,4,2,,0,6,0,0,0,0,6,,Sporadic
+Germany,European Region of WHO,South West Europe,2012,49,2012-12-03,2012-12-09,,91,0,4,5,,0,9,1,0,0,1,10,,Sporadic
+Germany,European Region of WHO,South West Europe,2012,50,2012-12-10,2012-12-16,,89,0,9,12,,0,21,0,1,0,1,22,,Sporadic
+Germany,European Region of WHO,South West Europe,2012,51,2012-12-17,2012-12-23,,87,0,10,13,,0,23,4,1,0,5,28,,Local Outbreak
+Germany,European Region of WHO,South West Europe,2012,52,2012-12-24,2012-12-30,,26,0,4,10,,0,14,1,0,0,1,15,,Local Outbreak
+Germany,European Region of WHO,South West Europe,2013,1,2012-12-31,2013-01-06,,69,0,18,3,,0,21,3,1,0,4,25,,Regional Outbreak
+Germany,European Region of WHO,South West Europe,2013,2,2013-01-07,2013-01-13,,135,0,36,27,,0,63,7,1,0,8,71,,Widespread Outbreak
+Germany,European Region of WHO,South West Europe,2013,3,2013-01-14,2013-01-20,,180,0,46,32,,0,78,15,3,0,18,96,,Widespread Outbreak
+Germany,European Region of WHO,South West Europe,2013,4,2013-01-21,2013-01-27,,282,0,73,69,,1,143,23,5,0,28,171,,Widespread Outbreak
+Germany,European Region of WHO,South West Europe,2013,5,2013-01-28,2013-02-03,,316,0,107,74,,0,181,27,2,0,29,210,,No Report
+Germany,European Region of WHO,South West Europe,2013,6,2013-02-04,2013-02-10,,312,0,96,73,,0,169,36,2,0,38,207,,Widespread Outbreak
+Germany,European Region of WHO,South West Europe,2013,7,2013-02-11,2013-02-17,,282,0,76,55,,0,131,43,4,0,47,178,,Widespread Outbreak
+Germany,European Region of WHO,South West Europe,2013,8,2013-02-18,2013-02-24,,302,0,77,58,,0,135,47,4,0,51,186,,Widespread Outbreak
+Germany,European Region of WHO,South West Europe,2013,9,2013-02-25,2013-03-03,,281,0,40,52,,0,92,50,6,0,56,148,,Widespread Outbreak
+Germany,European Region of WHO,South West Europe,2013,10,2013-03-04,2013-03-10,,239,0,19,28,,0,47,74,8,0,82,129,,Widespread Outbreak
+Germany,European Region of WHO,South West Europe,2013,11,2013-03-11,2013-03-17,,213,0,9,28,,0,37,70,8,0,78,115,,Widespread Outbreak
+Germany,European Region of WHO,South West Europe,2013,12,2013-03-18,2013-03-24,,176,0,4,20,,0,24,54,6,0,60,84,,Widespread Outbreak
+Germany,European Region of WHO,South West Europe,2013,13,2013-03-25,2013-03-31,,110,0,3,10,,0,13,44,5,0,49,62,,Widespread Outbreak
+Germany,European Region of WHO,South West Europe,2013,14,2013-04-01,2013-04-07,,94,0,0,4,,0,4,32,4,0,36,40,,Regional Outbreak
+Germany,European Region of WHO,South West Europe,2013,15,2013-04-08,2013-04-14,,79,0,1,4,,0,5,24,2,0,26,31,,Local Outbreak
+Germany,European Region of WHO,South West Europe,2013,16,2013-04-15,2013-04-21,,47,0,0,1,,0,1,15,1,0,16,17,,Local Outbreak
+Germany,European Region of WHO,South West Europe,2013,17,2013-04-22,2013-04-28,,26,0,0,0,,0,0,5,0,0,5,5,,Local Outbreak
+Germany,European Region of WHO,South West Europe,2013,18,2013-04-29,2013-05-05,,21,0,0,0,,0,0,2,0,0,2,2,,Sporadic
+Germany,European Region of WHO,South West Europe,2013,19,2013-05-06,2013-05-12,,11,0,0,0,,0,0,2,0,0,2,2,,Sporadic
+Germany,European Region of WHO,South West Europe,2013,20,2013-05-13,2013-05-19,,9,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,21,2013-05-20,2013-05-26,,12,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,22,2013-05-27,2013-06-02,,4,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,23,2013-06-03,2013-06-09,,10,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,24,2013-06-10,2013-06-16,,6,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,25,2013-06-17,2013-06-23,,8,1,0,0,,0,1,0,0,0,0,1,,No Activity
+Germany,European Region of WHO,South West Europe,2013,26,2013-06-24,2013-06-30,,6,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,27,2013-07-01,2013-07-07,,6,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,28,2013-07-08,2013-07-14,,4,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,29,2013-07-15,2013-07-21,,6,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,30,2013-07-22,2013-07-28,,3,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,31,2013-07-29,2013-08-04,,0,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,32,2013-08-05,2013-08-11,,0,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,33,2013-08-12,2013-08-18,,4,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,34,2013-08-19,2013-08-25,,4,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,35,2013-08-26,2013-09-01,,3,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,36,2013-09-02,2013-09-08,,3,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,37,2013-09-09,2013-09-15,,6,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,38,2013-09-16,2013-09-22,,9,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,39,2013-09-23,2013-09-29,,7,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,40,2013-09-30,2013-10-06,,14,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,41,2013-10-07,2013-10-13,,40,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,42,2013-10-14,2013-10-20,,39,0,1,0,,0,1,0,0,0,0,1,,No Activity
+Germany,European Region of WHO,South West Europe,2013,43,2013-10-21,2013-10-27,,53,0,2,0,,0,2,0,0,0,0,2,,No Activity
+Germany,European Region of WHO,South West Europe,2013,44,2013-10-28,2013-11-03,,29,0,2,0,,0,2,0,0,0,0,2,,No Activity
+Germany,European Region of WHO,South West Europe,2013,45,2013-11-04,2013-11-10,,57,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,46,2013-11-11,2013-11-17,,51,0,0,1,,0,1,1,0,0,1,2,,No Activity
+Germany,European Region of WHO,South West Europe,2013,47,2013-11-18,2013-11-24,,60,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2013,48,2013-11-25,2013-12-01,,58,0,0,2,,0,2,0,0,0,0,2,,Sporadic
+Germany,European Region of WHO,South West Europe,2013,49,2013-12-02,2013-12-08,,58,0,1,0,,0,1,0,0,0,0,1,,Sporadic
+Germany,European Region of WHO,South West Europe,2013,50,2013-12-09,2013-12-15,,67,0,1,2,,0,3,2,0,0,2,5,,Sporadic
+Germany,European Region of WHO,South West Europe,2013,51,2013-12-16,2013-12-22,,69,0,0,2,,0,2,1,0,0,1,3,,No Report
+Germany,European Region of WHO,South West Europe,2013,52,2013-12-23,2013-12-29,,22,0,0,1,,0,1,0,0,0,0,1,,Sporadic
+Germany,European Region of WHO,South West Europe,2014,1,2013-12-30,2014-01-05,,22,0,0,1,,0,1,0,0,0,0,1,,Sporadic
+Germany,European Region of WHO,South West Europe,2014,2,2014-01-06,2014-01-12,,56,0,1,4,,0,5,0,0,0,0,5,,Sporadic
+Germany,European Region of WHO,South West Europe,2014,3,2014-01-13,2014-01-19,,84,0,5,5,,0,10,0,1,0,1,11,,Sporadic
+Germany,European Region of WHO,South West Europe,2014,4,2014-01-20,2014-01-26,,103,0,5,9,,0,14,1,0,0,1,15,,Local Outbreak
+Germany,European Region of WHO,South West Europe,2014,5,2014-01-27,2014-02-02,,100,0,8,8,,0,16,0,0,0,0,16,,Local Outbreak
+Germany,European Region of WHO,South West Europe,2014,6,2014-02-03,2014-02-09,,134,0,5,25,,0,30,1,1,0,2,32,,Local Outbreak
+Germany,European Region of WHO,South West Europe,2014,7,2014-02-10,2014-02-16,,135,0,10,21,,0,31,2,1,0,3,34,,Local Outbreak
+Germany,European Region of WHO,South West Europe,2014,8,2014-02-17,2014-02-23,,127,0,11,21,,0,32,1,0,0,1,33,,Regional Outbreak
+Germany,European Region of WHO,South West Europe,2014,9,2014-02-24,2014-03-02,,114,0,6,15,,0,21,3,0,0,3,24,,Regional Outbreak
+Germany,European Region of WHO,South West Europe,2014,10,2014-03-03,2014-03-09,,116,0,13,20,,0,33,1,0,0,1,34,,Regional Outbreak
+Germany,European Region of WHO,South West Europe,2014,11,2014-03-10,2014-03-16,,119,0,10,21,,0,31,4,2,0,6,37,,Regional Outbreak
+Germany,European Region of WHO,South West Europe,2014,12,2014-03-17,2014-03-23,,103,0,12,29,,0,41,4,0,0,4,45,,Regional Outbreak
+Germany,European Region of WHO,South West Europe,2014,13,2014-03-24,2014-03-30,,84,0,5,9,,0,14,1,0,0,1,15,,Regional Outbreak
+Germany,European Region of WHO,South West Europe,2014,14,2014-03-31,2014-04-06,,73,0,5,11,,0,16,0,0,0,0,16,,Regional Outbreak
+Germany,European Region of WHO,South West Europe,2014,15,2014-04-07,2014-04-13,,58,0,2,7,,0,9,0,1,0,1,10,,Local Outbreak
+Germany,European Region of WHO,South West Europe,2014,16,2014-04-14,2014-04-20,,28,0,4,3,,0,7,0,0,0,0,7,,Local Outbreak
+Germany,European Region of WHO,South West Europe,2014,17,2014-04-21,2014-04-27,,27,0,2,2,,0,4,0,0,0,0,4,,Local Outbreak
+Germany,European Region of WHO,South West Europe,2014,18,2014-04-28,2014-05-04,,20,0,0,6,,0,6,0,0,0,0,6,,Sporadic
+Germany,European Region of WHO,South West Europe,2014,19,2014-05-05,2014-05-11,,24,0,0,2,,0,2,1,0,0,1,3,,Sporadic
+Germany,European Region of WHO,South West Europe,2014,20,2014-05-12,2014-05-18,,21,0,4,1,,0,5,1,0,0,1,6,,Sporadic
+Germany,European Region of WHO,South West Europe,2014,21,2014-05-19,2014-05-25,,25,0,0,4,,0,4,0,0,0,0,4,,Sporadic
+Germany,European Region of WHO,South West Europe,2014,22,2014-05-26,2014-06-01,,12,0,1,0,,0,1,0,0,0,0,1,,Sporadic
+Germany,European Region of WHO,South West Europe,2014,23,2014-06-02,2014-06-08,,20,0,0,0,,0,0,0,0,0,0,0,,Sporadic
+Germany,European Region of WHO,South West Europe,2014,24,2014-06-09,2014-06-15,,10,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2014,25,2014-06-16,2014-06-22,,12,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Germany,European Region of WHO,South West Europe,2014,26,2014-06-23,2014-06-29,,17,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2014,27,2014-06-30,2014-07-06,,15,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2014,28,2014-07-07,2014-07-13,,14,0,0,0,,0,0,1,0,0,1,1,,No Report
+Germany,European Region of WHO,South West Europe,2014,29,2014-07-14,2014-07-20,,5,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2014,30,2014-07-21,2014-07-27,,11,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2014,31,2014-07-28,2014-08-03,,3,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2014,32,2014-08-04,2014-08-10,,4,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2014,33,2014-08-11,2014-08-17,,4,0,1,0,,0,1,0,0,0,0,1,,No Report
+Germany,European Region of WHO,South West Europe,2014,34,2014-08-18,2014-08-24,,8,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2014,35,2014-08-25,2014-08-31,,9,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2014,36,2014-09-01,2014-09-07,,14,0,0,0,,0,0,1,0,0,1,1,,No Report
+Germany,European Region of WHO,South West Europe,2014,37,2014-09-08,2014-09-14,,15,0,0,1,,0,1,0,0,0,0,1,,No Report
+Germany,European Region of WHO,South West Europe,2014,38,2014-09-15,2014-09-21,,17,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2014,39,2014-09-22,2014-09-28,,25,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2014,40,2014-09-29,2014-10-05,,29,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2014,41,2014-10-06,2014-10-12,,44,0,0,1,,0,1,0,0,0,0,1,,No Report
+Germany,European Region of WHO,South West Europe,2014,42,2014-10-13,2014-10-19,,61,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2014,43,2014-10-20,2014-10-26,,64,0,1,0,,0,1,0,1,0,1,2,,No Report
+Germany,European Region of WHO,South West Europe,2014,44,2014-10-27,2014-11-02,,52,0,1,1,,0,2,0,0,0,0,2,,No Report
+Germany,European Region of WHO,South West Europe,2014,45,2014-11-03,2014-11-09,,76,0,0,2,,0,2,0,0,0,0,2,,No Report
+Germany,European Region of WHO,South West Europe,2014,46,2014-11-10,2014-11-16,,81,0,1,0,,0,1,0,0,0,0,1,,No Report
+Germany,European Region of WHO,South West Europe,2014,47,2014-11-17,2014-11-23,,85,0,0,0,,0,0,0,1,0,1,1,,No Report
+Germany,European Region of WHO,South West Europe,2014,48,2014-11-24,2014-11-30,,92,0,1,2,,0,3,0,0,0,0,3,,No Report
+Germany,European Region of WHO,South West Europe,2014,49,2014-12-01,2014-12-07,,109,0,0,2,,0,2,1,0,0,1,3,,No Report
+Germany,European Region of WHO,South West Europe,2014,50,2014-12-08,2014-12-14,,116,0,2,3,,0,5,0,0,0,0,5,,No Report
+Germany,European Region of WHO,South West Europe,2014,51,2014-12-15,2014-12-21,,105,0,1,13,,0,14,1,1,0,2,16,,No Report
+Germany,European Region of WHO,South West Europe,2014,52,2014-12-22,2014-12-28,,50,0,1,17,,0,18,1,0,0,1,19,,No Report
+Germany,European Region of WHO,South West Europe,2015,1,2014-12-29,2015-01-04,,47,0,2,11,,0,13,0,0,0,0,13,,No Report
+Germany,European Region of WHO,South West Europe,2015,2,2015-01-05,2015-01-11,,162,0,6,60,,0,66,2,0,0,2,68,,No Report
+Germany,European Region of WHO,South West Europe,2015,3,2015-01-12,2015-01-18,,249,0,9,124,,0,133,7,0,0,7,140,,No Report
+Germany,European Region of WHO,South West Europe,2015,4,2015-01-19,2015-01-25,,322,0,21,181,,0,202,10,0,0,10,212,,No Report
+Germany,European Region of WHO,South West Europe,2015,5,2015-01-26,2015-02-01,,428,0,42,226,,0,268,12,0,0,12,280,,No Report
+Germany,European Region of WHO,South West Europe,2015,6,2015-02-02,2015-02-08,,490,0,55,240,,0,295,21,1,0,22,317,,No Report
+Germany,European Region of WHO,South West Europe,2015,7,2015-02-09,2015-02-15,,535,0,63,264,,0,327,39,2,0,41,368,,No Report
+Germany,European Region of WHO,South West Europe,2015,8,2015-02-16,2015-02-22,,566,0,79,276,,0,355,51,1,0,52,407,,No Report
+Germany,European Region of WHO,South West Europe,2015,9,2015-02-23,2015-03-01,,551,0,75,266,,0,341,66,0,0,66,407,,No Report
+Germany,European Region of WHO,South West Europe,2015,10,2015-03-02,2015-03-08,,528,0,58,218,,0,276,84,0,0,84,360,,No Report
+Germany,European Region of WHO,South West Europe,2015,11,2015-03-09,2015-03-15,,459,0,48,131,,0,179,95,0,0,95,274,,No Report
+Germany,European Region of WHO,South West Europe,2015,12,2015-03-16,2015-03-22,,347,0,39,74,,0,113,81,0,0,81,194,,No Report
+Germany,European Region of WHO,South West Europe,2015,13,2015-03-23,2015-03-29,,282,0,26,33,,0,59,82,1,0,83,142,,No Report
+Germany,European Region of WHO,South West Europe,2015,14,2015-03-30,2015-04-05,,191,0,8,12,,0,20,76,1,0,77,97,,No Report
+Germany,European Region of WHO,South West Europe,2015,15,2015-04-06,2015-04-12,,99,0,2,9,,0,11,41,0,0,41,52,,No Report
+Germany,European Region of WHO,South West Europe,2015,16,2015-04-13,2015-04-19,,79,0,1,4,,0,5,27,1,0,28,33,,No Report
+Germany,European Region of WHO,South West Europe,2015,17,2015-04-20,2015-04-26,,66,0,0,1,,0,1,16,1,0,17,18,,No Report
+Germany,European Region of WHO,South West Europe,2015,18,2015-04-27,2015-05-03,,63,0,1,0,,0,1,15,0,0,15,16,,No Report
+Germany,European Region of WHO,South West Europe,2015,19,2015-05-04,2015-05-10,,53,0,1,0,,0,1,10,1,0,11,12,,No Report
+Germany,European Region of WHO,South West Europe,2015,20,2015-05-11,2015-05-17,,30,0,0,0,,0,0,1,2,0,3,3,,No Report
+Germany,European Region of WHO,South West Europe,2015,21,2015-05-18,2015-05-24,,19,0,0,0,,0,0,0,1,0,1,1,,No Report
+Germany,European Region of WHO,South West Europe,2015,22,2015-05-25,2015-05-31,,19,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2015,23,2015-06-01,2015-06-07,,23,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2015,24,2015-06-08,2015-06-14,,26,0,1,0,,0,1,1,0,0,1,2,,No Report
+Germany,European Region of WHO,South West Europe,2015,25,2015-06-15,2015-06-21,,26,0,1,0,,0,1,1,0,0,1,2,,No Report
+Germany,European Region of WHO,South West Europe,2015,26,2015-06-22,2015-06-28,,28,0,0,0,,0,0,0,1,0,1,1,,No Report
+Germany,European Region of WHO,South West Europe,2015,27,2015-06-29,2015-07-05,,30,0,0,2,,0,2,0,1,0,1,3,,No Report
+Germany,European Region of WHO,South West Europe,2015,28,2015-07-06,2015-07-12,,30,0,0,2,,0,2,0,0,0,0,2,,No Report
+Germany,European Region of WHO,South West Europe,2015,29,2015-07-13,2015-07-19,,11,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2015,30,2015-07-20,2015-07-26,,17,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2015,31,2015-07-27,2015-08-02,,12,0,0,2,,0,2,0,0,0,0,2,,No Report
+Germany,European Region of WHO,South West Europe,2015,32,2015-08-03,2015-08-09,,6,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2015,33,2015-08-10,2015-08-16,,8,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2015,34,2015-08-17,2015-08-23,,8,0,0,1,,0,1,0,0,0,0,1,,No Report
+Germany,European Region of WHO,South West Europe,2015,35,2015-08-24,2015-08-30,,15,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2015,36,2015-08-31,2015-09-06,,10,0,1,1,,0,2,1,0,0,1,3,,No Report
+Germany,European Region of WHO,South West Europe,2015,37,2015-09-07,2015-09-13,,22,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2015,38,2015-09-14,2015-09-20,,28,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2015,39,2015-09-21,2015-09-27,,38,0,0,0,,0,0,2,0,0,2,2,,No Report
+Germany,European Region of WHO,South West Europe,2015,40,2015-09-28,2015-10-04,,44,0,0,1,,0,1,0,0,0,0,1,,No Report
+Germany,European Region of WHO,South West Europe,2015,41,2015-10-05,2015-10-11,,59,0,1,1,,0,2,0,0,0,0,2,,No Report
+Germany,European Region of WHO,South West Europe,2015,42,2015-10-12,2015-10-18,,66,0,0,1,,0,1,0,0,0,0,1,,No Report
+Germany,European Region of WHO,South West Europe,2015,43,2015-10-19,2015-10-25,,57,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2015,44,2015-10-26,2015-11-01,,62,0,1,0,,0,1,0,0,0,0,1,,No Report
+Germany,European Region of WHO,South West Europe,2015,45,2015-11-02,2015-11-08,,76,0,2,0,,0,2,0,0,0,0,2,,No Report
+Germany,European Region of WHO,South West Europe,2015,46,2015-11-09,2015-11-15,,79,0,5,1,,0,6,0,0,0,0,6,,No Report
+Germany,European Region of WHO,South West Europe,2015,47,2015-11-16,2015-11-22,,89,0,3,2,,0,5,0,0,0,0,5,,No Report
+Germany,European Region of WHO,South West Europe,2015,48,2015-11-23,2015-11-29,,96,0,1,0,,0,1,0,0,0,0,1,,No Report
+Germany,European Region of WHO,South West Europe,2015,49,2015-11-30,2015-12-06,,93,0,4,1,,0,5,0,0,0,0,5,,No Report
+Germany,European Region of WHO,South West Europe,2015,50,2015-12-07,2015-12-13,,93,0,6,1,,0,7,0,0,0,0,7,,No Report
+Germany,European Region of WHO,South West Europe,2015,51,2015-12-14,2015-12-20,,90,0,6,0,,0,6,0,1,0,1,7,,No Report
+Germany,European Region of WHO,South West Europe,2015,52,2015-12-21,2015-12-27,,49,0,7,0,,0,7,0,0,0,0,7,,No Report
+Germany,European Region of WHO,South West Europe,2015,53,2015-12-28,2016-01-03,,24,0,5,0,,0,5,0,0,0,0,5,,No Report
+Germany,European Region of WHO,South West Europe,2016,1,2016-01-04,2016-01-10,,85,0,9,0,,0,9,0,2,0,2,11,,No Report
+Germany,European Region of WHO,South West Europe,2016,2,2016-01-11,2016-01-17,,118,0,20,3,,0,23,0,3,0,3,26,,No Report
+Germany,European Region of WHO,South West Europe,2016,3,2016-01-18,2016-01-24,,142,0,29,5,,0,34,1,8,0,9,43,,No Report
+Germany,European Region of WHO,South West Europe,2016,4,2016-01-25,2016-01-31,,155,0,43,4,,0,47,1,21,0,22,69,,No Report
+Germany,European Region of WHO,South West Europe,2016,5,2016-02-01,2016-02-07,,181,0,59,1,,0,60,1,15,0,16,76,,No Report
+Germany,European Region of WHO,South West Europe,2016,6,2016-02-08,2016-02-14,,193,0,58,3,,0,61,3,28,0,31,92,,No Report
+Germany,European Region of WHO,South West Europe,2016,7,2016-02-15,2016-02-21,,221,0,53,1,,0,54,2,45,0,47,101,,No Report
+Germany,European Region of WHO,South West Europe,2016,8,2016-02-22,2016-02-28,,254,0,74,1,,0,75,5,65,0,70,145,,No Report
+Germany,European Region of WHO,South West Europe,2016,9,2016-02-29,2016-03-06,,278,0,59,4,,0,63,1,92,0,93,156,,No Report
+Germany,European Region of WHO,South West Europe,2016,10,2016-03-07,2016-03-13,,286,0,54,4,,0,58,2,97,0,99,157,,No Report
+Germany,European Region of WHO,South West Europe,2016,11,2016-03-14,2016-03-20,,244,0,38,1,,0,39,1,95,0,96,135,,No Report
+Germany,European Region of WHO,South West Europe,2016,12,2016-03-21,2016-03-27,,169,0,36,2,,0,38,2,84,0,86,124,,No Report
+Germany,European Region of WHO,South West Europe,2016,13,2016-03-28,2016-04-03,,133,0,21,2,,0,23,5,54,0,59,82,,No Report
+Germany,European Region of WHO,South West Europe,2016,14,2016-04-04,2016-04-10,,133,0,13,1,,0,14,3,49,0,52,66,,No Report
+Germany,European Region of WHO,South West Europe,2016,15,2016-04-11,2016-04-17,,85,0,10,1,,0,11,2,22,0,24,35,,No Report
+Germany,European Region of WHO,South West Europe,2016,16,2016-04-18,2016-04-24,,64,0,1,0,,0,1,0,10,0,10,11,,No Report
+Germany,European Region of WHO,South West Europe,2016,17,2016-04-25,2016-05-01,,52,0,0,0,,0,0,1,7,0,8,8,,No Report
+Germany,European Region of WHO,South West Europe,2016,18,2016-05-02,2016-05-08,,36,0,1,0,,0,1,0,8,0,8,9,,No Report
+Germany,European Region of WHO,South West Europe,2016,19,2016-05-09,2016-05-15,,24,0,4,0,,0,4,0,1,0,1,5,,No Report
+Germany,European Region of WHO,South West Europe,2016,20,2016-05-16,2016-05-22,,27,0,0,0,,0,0,0,2,0,2,2,,No Report
+Germany,European Region of WHO,South West Europe,2016,21,2016-05-23,2016-05-29,,15,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2016,22,2016-05-30,2016-06-05,,16,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2016,23,2016-06-06,2016-06-12,,14,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2016,24,2016-06-13,2016-06-19,,16,0,0,1,,0,1,0,0,0,0,1,,No Report
+Germany,European Region of WHO,South West Europe,2016,25,2016-06-20,2016-06-26,,10,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2016,26,2016-06-27,2016-07-03,,15,0,0,1,,0,1,0,0,0,0,1,,No Report
+Germany,European Region of WHO,South West Europe,2016,27,2016-07-04,2016-07-10,,14,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2016,28,2016-07-11,2016-07-17,,19,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2016,29,2016-07-18,2016-07-24,,19,0,0,1,,0,1,0,0,0,0,1,,No Report
+Germany,European Region of WHO,South West Europe,2016,30,2016-07-25,2016-07-31,,7,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2016,31,2016-08-01,2016-08-07,,5,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2016,32,2016-08-08,2016-08-14,,12,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2016,33,2016-08-15,2016-08-21,,18,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2016,34,2016-08-22,2016-08-28,,13,0,0,1,,0,1,0,0,0,0,1,,No Report
+Germany,European Region of WHO,South West Europe,2016,35,2016-08-29,2016-09-04,,18,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2016,36,2016-09-05,2016-09-11,,16,0,0,1,,0,1,0,0,0,0,1,,No Report
+Germany,European Region of WHO,South West Europe,2016,37,2016-09-12,2016-09-18,,16,0,0,1,,0,1,0,0,0,0,1,,No Report
+Germany,European Region of WHO,South West Europe,2016,38,2016-09-19,2016-09-25,,24,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2016,39,2016-09-26,2016-10-02,,15,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2016,40,2016-10-03,2016-10-09,,42,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2016,41,2016-10-10,2016-10-16,,75,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2016,42,2016-10-17,2016-10-23,,86,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2016,43,2016-10-24,2016-10-30,,84,0,0,2,,0,2,0,0,0,0,2,,No Report
+Germany,European Region of WHO,South West Europe,2016,44,2016-10-31,2016-11-06,,78,0,0,0,,0,0,0,0,0,0,0,,No Report
+Germany,European Region of WHO,South West Europe,2016,45,2016-11-07,2016-11-13,,113,0,0,2,,0,2,0,0,0,0,2,,No Report
+Germany,European Region of WHO,South West Europe,2016,46,2016-11-14,2016-11-20,,138,0,0,7,,0,7,0,0,0,0,7,,No Report
+Germany,European Region of WHO,South West Europe,2016,47,2016-11-21,2016-11-27,,132,0,0,7,,0,7,2,2,0,4,11,,No Report
+Germany,European Region of WHO,South West Europe,2016,48,2016-11-28,2016-12-04,,135,0,0,2,,0,2,0,0,0,0,2,,No Report
+Germany,European Region of WHO,South West Europe,2016,49,2016-12-05,2016-12-11,,161,0,0,16,,0,16,0,0,0,0,16,,No Report
+Germany,European Region of WHO,South West Europe,2016,50,2016-12-12,2016-12-18,,161,0,0,23,,0,23,0,0,0,0,23,,No Report
+Germany,European Region of WHO,South West Europe,2016,51,2016-12-19,2016-12-25,,131,0,0,46,,0,46,0,0,0,0,46,,No Report
+Germany,European Region of WHO,South West Europe,2016,52,2016-12-26,2017-01-01,,118,0,0,42,,0,42,0,0,0,0,42,,No Report
+
